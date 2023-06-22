@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<payment>  
+  <payment category="Card">  
+    <Type lang="en">Credit</Type>  
+    <Name>Vanka Srinivas</Name>  
+    <Number>1234-2332-2323-3232</Number>  
+    <expirymonth>30.00</expirymonth>  
+    <expiryyear>30.00</expiryyear>  
+    
+    
+  </payment>  
+  <payment category="Card">  
+    <Type lang="en">Credit</Type>  
+    <Name>Vanka Srinivas</Name>  
+    <Number>1234-2332-2323-3232</Number>  
+    <expirymonth>30.00</expirymonth>  
+    <expiryyear>30.00</expiryyear>  
+    
+    
+  </payment>  
+  <payment category="Card">  
+    <Type lang="en">Credit</Type>  
+    <Name>Vanka Srinivas</Name>  
+    <Number>1234-2332-2323-3232</Number>  
+    <expirymonth>30.00</expirymonth>  
+    <expiryyear>30.00</expiryyear>  
+    
+    
+  </payment>  
+  <payment category="Card">  
+    <Type lang="en">Credit</Type>  
+    <Name>Vanka Srinivas</Name>  
+    <Number>1234-2332-2323-3232</Number>  
+    <expirymonth>30.00</expirymonth>  
+    <expiryyear>30.00</expiryyear>  
+    
+    
+  </payment>  
+  
+  
+</payment>  

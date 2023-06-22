@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addresses>
+  <address>
+    <name>Vanka Srinivas</name>
+    <phone-number>9440016216</phone-number>
+    <street>Yalavarthi</street>
+<area>Railpet</area>
+<city>Repalle</city>
+<country>India</country>
+<zip-code>522265</zip-code>
+  </address>
+  <address>
+    <name>Rajyalakshmi</name>
+    <phone-number>9490085059</phone-number>
+    <street>Kota</street>
+    <area>LIC colony</area>
+    <city>Machilipatnam</city>
+    <country>India</country>
+    <zip-code>522137</zip-code>
+  </address>
+  <address>
+    <name>Chaitanya</name>
+    <phone-number>9493922116</phone-number>
+    <street>Goubert</street>
+    <area>Pillaichavady</area>
+    <city>Pondiicherry</city>
+    <country>India</country>
+    <zip-code>605014</zip-code>
+  </address>
+  <address>
+    <name>Siri</name>
+    <phone-number>7075022116</phone-number>
+    <street>poraki</street>
+    <area>Kannur</area>
+    <city>Vijayawada</city>
+    <country>America</country>
+    <zip-code>60507</zip-code>
+  </address>
+  
+</addresses>

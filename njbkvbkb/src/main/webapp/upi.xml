@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<payments>
+  <payment>
+    <name>John Doe</name>
+    <upi_id>johndoe@upi</upi_id>
+    <bank>HDFC Bank</bank>
+  </payment>
+  <payment>
+    <name>Jane Smith</name>
+    <upi_id>janesmith@upi</upi_id>
+    <bank>ICICI Bank</bank>
+  </payment>
+</payments>
